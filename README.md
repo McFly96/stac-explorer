@@ -7,6 +7,7 @@ GPU.
 
 - **Stack:** React 19 + TypeScript, OpenLayers 10 (WebGL tiles, GeoTIFF source), proj4, Vite, Vitest + Testing Library
 - **Data:** [Earth Search](https://element84.com/earth-search/) STAC API, collection `sentinel-2-l2a` (COGs on AWS Open Data)
+- **UX mock-up:** [docs/mockup.pdf](docs/mockup.pdf) (hand-drawn paper prototype, see [docs/MOCKUP.md](docs/MOCKUP.md))
 
 ## Features
 
